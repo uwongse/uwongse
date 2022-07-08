@@ -24,41 +24,41 @@
 </div>
 
 ## :man_technologist: About Me :
-I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain with ability to learn any new language or framework in a short time.
+  I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain with ability to learn any new language or      framework in a short time.
 
- - ⌨ 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐲 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
+   - ⌨ 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐲 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
 
- - 👍 Experience with relational databases
+   - 👍 Experience with relational databases
 
- - 🔎 Version control system.
+   - 🔎 Version control system.
 
- - 🛒 Web layout and experience with CMS
+   - 🛒 Web layout and experience with CMS
 
- - 📈 𝐒𝐄𝐎 friendly
+   - 📈 𝐒𝐄𝐎 friendly
 
 ## Skills:
 
-  ✔ 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐏𝐇𝐏, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐉𝐚𝐯𝐚, 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐂 ++
+    ✔ 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐏𝐇𝐏, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐉𝐚𝐯𝐚, 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐂 ++
 
-  ✔ 𝐇𝐓𝐌𝐋𝟓 𝐘 𝐂𝐒𝐒𝟑
+    ✔ 𝐇𝐓𝐌𝐋𝟓 𝐘 𝐂𝐒𝐒𝟑
 
-  ✔ Framework JavaScript: 𝗩𝘂𝗲.𝗷𝘀, 𝐀𝐧𝐠𝐮𝐥𝐚𝐫
+    ✔ Framework JavaScript: 𝗩𝘂𝗲.𝗷𝘀, 𝐀𝐧𝐠𝐮𝐥𝐚𝐫
 
-  ✔ Framework PHP: 𝐋𝐚𝐫𝐚𝐯𝐞𝐥
+    ✔ Framework PHP: 𝐋𝐚𝐫𝐚𝐯𝐞𝐥
 
-  ✔ Managing libraries like: 𝐣𝐐𝐮𝐞𝐫𝐲
+    ✔ Managing libraries like: 𝐣𝐐𝐮𝐞𝐫𝐲
 
-  ✔ Framework CSS: 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩, 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒
+    ✔ Framework CSS: 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩, 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒
 
-  ✔ Mobile development: 𝐅𝐥𝐮𝐭𝐭𝐞𝐫, 𝐔𝐧𝐢𝐭𝐲
+    ✔ Mobile development: 𝐅𝐥𝐮𝐭𝐭𝐞𝐫, 𝐔𝐧𝐢𝐭𝐲
 
-  ✔ BBDD: 𝐒𝐐𝐋
+    ✔ BBDD: 𝐒𝐐𝐋
 
-  ✔ Experience with 𝐃𝐨𝐜𝐤𝐞𝐫, Web services (𝐒𝐎𝐀𝐏, 𝐑𝐄𝐒𝐓...)
+    ✔ Experience with 𝐃𝐨𝐜𝐤𝐞𝐫, Web services (𝐒𝐎𝐀𝐏, 𝐑𝐄𝐒𝐓...)
 
-  ✔ Experience with 𝐀𝐏𝐈𝐬 𝐑𝐄𝐒𝐓
+    ✔ Experience with 𝐀𝐏𝐈𝐬 𝐑𝐄𝐒𝐓
 
-  ✔ Version Control: 𝐆𝐢𝐭
+    ✔ Version Control: 𝐆𝐢𝐭
 
 
 ### :hammer_and_wrench: Languages and Tools :
