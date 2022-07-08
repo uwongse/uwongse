@@ -37,27 +37,28 @@
    - 📈 𝐒𝐄𝐎 friendly
 
 ## Skills:
-    ✔ 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐏𝐇𝐏, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐉𝐚𝐯𝐚, 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐂 ++
 
-    ✔ 𝐇𝐓𝐌𝐋𝟓 𝐘 𝐂𝐒𝐒𝟑
+  ✔ 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐏𝐇𝐏, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐉𝐚𝐯𝐚, 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐂 ++
 
-    ✔ Framework JavaScript: 𝗩𝘂𝗲.𝗷𝘀, 𝐀𝐧𝐠𝐮𝐥𝐚𝐫
+  ✔ 𝐇𝐓𝐌𝐋𝟓 𝐘 𝐂𝐒𝐒𝟑
 
-    ✔ Framework PHP: 𝐋𝐚𝐫𝐚𝐯𝐞𝐥
+  ✔ Framework JavaScript: 𝗩𝘂𝗲.𝗷𝘀, 𝐀𝐧𝐠𝐮𝐥𝐚𝐫
 
-    ✔ Managing libraries like: 𝐣𝐐𝐮𝐞𝐫𝐲
+  ✔ Framework PHP: 𝐋𝐚𝐫𝐚𝐯𝐞𝐥
 
-    ✔ Framework CSS: 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩, 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒
+  ✔ Managing libraries like: 𝐣𝐐𝐮𝐞𝐫𝐲
 
-    ✔ Mobile development: 𝐅𝐥𝐮𝐭𝐭𝐞𝐫, 𝐔𝐧𝐢𝐭𝐲
+  ✔ Framework CSS: 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩, 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒
 
-    ✔ BBDD: 𝐒𝐐𝐋
+  ✔ Mobile development: 𝐅𝐥𝐮𝐭𝐭𝐞𝐫, 𝐔𝐧𝐢𝐭𝐲
 
-    ✔ Experience with 𝐃𝐨𝐜𝐤𝐞𝐫, Web services (𝐒𝐎𝐀𝐏, 𝐑𝐄𝐒𝐓...)
+  ✔ BBDD: 𝐒𝐐𝐋
 
-    ✔ Experience with 𝐀𝐏𝐈𝐬 𝐑𝐄𝐒𝐓
+  ✔ Experience with 𝐃𝐨𝐜𝐤𝐞𝐫, Web services (𝐒𝐎𝐀𝐏, 𝐑𝐄𝐒𝐓...)
 
-    ✔ Version Control: 𝐆𝐢𝐭
+  ✔ Experience with 𝐀𝐏𝐈𝐬 𝐑𝐄𝐒𝐓
+
+  ✔ Version Control: 𝐆𝐢𝐭
 
 
 ### :hammer_and_wrench: Languages and Tools :
