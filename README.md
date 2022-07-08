@@ -36,7 +36,7 @@ I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞�
 
    - 📈 𝐒𝐄𝐎 friendly
 
-## Skills:
+## :zap: Skills:
   ✔ 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐏𝐇𝐏, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝐉𝐚𝐯𝐚, 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐂 ++
 
   ✔ 𝐇𝐓𝐌𝐋𝟓 𝐘 𝐂𝐒𝐒𝟑
@@ -85,6 +85,6 @@ I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞�
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwongse)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact & support:
+## :mailbox: Contact & support:
 
 [![Email](https://img.shields.io/badge/mariouwfe@hotmail.com-my_personal_email_(fast_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mariouwfe@hotmail.com)
