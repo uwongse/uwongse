@@ -60,7 +60,7 @@ I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞�
   ✔ Version Control: 𝐆𝐢𝐭
 
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div id="body" align="start">
   <img src="https://media2.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif?cid=ecf05e47tuacvjfrb5kfgcvlfys5opufdt84obl1xigxblx5&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
@@ -79,7 +79,7 @@ I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞�
  <img src="https://media4.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=790b7611b3267229a64c623881287fa5a348272353e6b8aa&rid=giphy.gif&ct=g" alt="LinkedIn Badge" width="100"/>
   </div>
 
-### :fire: My Stats :
+## :fire: My Stats :
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uwongse&theme=dark&background=000000)](https://git.io/streak-stats)
 
