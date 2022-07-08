@@ -60,8 +60,6 @@ I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞�
   
   ✔ Version Control: 𝐆𝐢𝐭
     
-    and more...
-
 
 ### :hammer_and_wrench: Languages and Tools :
 
