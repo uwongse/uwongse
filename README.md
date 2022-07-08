@@ -87,4 +87,4 @@ I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞�
 
 ## Contact & support:
 
-[![Email](https://img.shields.io/badge/mariouwfe@hotmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mariouwfe@hotmail.com)
+[![Email](https://img.shields.io/badge/mariouwfe@hotmail.com-my_personal_email_(fast_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mariouwfe@hotmail.com)
