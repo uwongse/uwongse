@@ -31,8 +31,6 @@
   <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e474fmrrxavpbexnn3xi9gedracwl5b0g95n6gyzsjx&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
   <img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47v7ien499pqo6p3wsylboqxbtm69c9z2nq46ezulm&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
   <img src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47ry5b11h3afii8fvo57c55annc9paqtfrqu29ddy5&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
-  <img src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47ry5b11h3afii8fvo57c55annc9paqtfrqu29ddy5&rid=giphy.gif&ct=s)" alt="LinkedIn Badge" width="100"/>
-  <img src="https://media4.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e4778paw07s7wqyaxyfuytuhxggliluem78kq55w4r6&rid=giphy.gif&ct=g" alt="LinkedIn Badge" width="100"/>
   <img src="https://media0.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif?cid=ecf05e47l74t2ksiqwc4iqfk2uxrkl1jhjp27hfhg9smlz9i&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
 
 </div>
