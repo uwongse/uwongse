@@ -21,7 +21,9 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=uwongse&style=flat-square&color=blue" alt="uwongse github"/>
 </div>
-### hammer_and_wrench: Languages and Tools :
+
+### :hammer_and_wrench: Languages and Tools :
+
 <div id="body" align="start">
      <img src="https://media2.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif?cid=ecf05e47tuacvjfrb5kfgcvlfys5opufdt84obl1xigxblx5&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
      <img src="https://media1.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif?cid=790b76110028d15d072242d383f2c462c73f1bdaea26de72&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
