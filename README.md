@@ -1,5 +1,7 @@
 # Hello, my name is Mario Uwongse Fernández
 ##  Full-stack web & software Developer
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mario_Uwongse-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mario-uwongse)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYubFxk5-LcbROFDe0c18fA?style=social)](https://youtube.com/mariouwongseapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/uwongse?style=social)](https://twitch.com/uwongse)
 [![Twitter Follow](https://img.shields.io/twitter/follow/uwongse?style=social)](https://twitter.com/uwongse)
@@ -25,13 +27,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+-𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with ability to learn any new language or framework ​​in a short time.
+-⌨ 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐲 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
+-👍 Experience with relational databases
+-🔎 Version control system.
+-🛒 Web layout and experience with CMS
+-📈 𝐒𝐄𝐎 friendly
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mario_Uwongse-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mario-uwongse)
 
 ### :hammer_and_wrench: Languages and Tools :
 
