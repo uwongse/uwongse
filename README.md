@@ -22,3 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=uwongse&style=flat-square&color=blue" alt="uwongse github"/>
 </div>
 
+<div id="body" align="start">
+   <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e47hykz2jdmqsqwve873mfrwfs2akjhyltud1xiy7ym&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
+
+</div>
