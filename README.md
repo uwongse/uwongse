@@ -1,5 +1,6 @@
 # Hello, my name is Mario Uwongse Fernández
 ###  Full-stack web & software Developer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mario-uwongse?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/mario-uwongse)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYubFxk5-LcbROFDe0c18fA?style=social)](https://youtube.com/mariouwongseapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/uwongse?style=social)](https://twitch.com/uwongse)
 [![Twitter Follow](https://img.shields.io/twitter/follow/uwongse?style=social)](https://twitter.com/uwongse)
