@@ -1,5 +1,5 @@
 # Hello, my name is Mario Uwongse Fernández
-###  Full-stack web & software Developer
+##  Full-stack web & software Developer
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYubFxk5-LcbROFDe0c18fA?style=social)](https://youtube.com/mariouwongseapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/uwongse?style=social)](https://twitch.com/uwongse)
 [![Twitter Follow](https://img.shields.io/twitter/follow/uwongse?style=social)](https://twitter.com/uwongse)
@@ -21,6 +21,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=uwongse&style=flat-square&color=blue" alt="uwongse github"/>
 </div>
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div id="body" align="start">
      <img src="https://media2.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif?cid=ecf05e47tuacvjfrb5kfgcvlfys5opufdt84obl1xigxblx5&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
