@@ -78,3 +78,8 @@ I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞�
   <img src="https://media0.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif?cid=ecf05e47l74t2ksiqwc4iqfk2uxrkl1jhjp27hfhg9smlz9i&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
  <img src="https://media4.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=790b7611b3267229a64c623881287fa5a348272353e6b8aa&rid=giphy.gif&ct=g" alt="LinkedIn Badge" width="100"/>
 </div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uwongse&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwongse)](https://github.com/anuraghazra/github-readme-stats)
