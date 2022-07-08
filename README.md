@@ -25,9 +25,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
-
--𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with ability to learn any new language or framework in a short time.
+I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain with ability to learn any new language or framework in a short time.
 
 -⌨ 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐲 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
 
