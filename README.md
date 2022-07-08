@@ -24,5 +24,15 @@
 
 <div id="body" align="start">
    <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e47hykz2jdmqsqwve873mfrwfs2akjhyltud1xiy7ym&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
+     <img src="https://media3.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif?cid=ecf05e47tzs5nh52hq55x8sfmqv67rwsascepudnh1s6b0ul&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
+       <img src="https://media4.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif?cid=ecf05e47d68jrx6gz5zt9frg5f2qyupj9ywo9rovmf1f6uqq&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
+       <img src="  https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e47s1j40ji933mihj9i8adc1j97dquj6esgq90ta0a7&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
+  <img src="https://media1.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif?cid=ecf05e4788dttcqkc2otdk02rz30o2jw7at7bvjyjbe5wphh&rid=giphy.gif&ct=g" alt="LinkedIn Badge" width="100"/>
+  <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e474fmrrxavpbexnn3xi9gedracwl5b0g95n6gyzsjx&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
+  <img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47v7ien499pqo6p3wsylboqxbtm69c9z2nq46ezulm&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
+  <img src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47ry5b11h3afii8fvo57c55annc9paqtfrqu29ddy5&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
+  <img src="(https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47ry5b11h3afii8fvo57c55annc9paqtfrqu29ddy5&rid=giphy.gif&ct=s)" alt="LinkedIn Badge" width="100"/>
+  <img src="https://media4.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e4778paw07s7wqyaxyfuytuhxggliluem78kq55w4r6&rid=giphy.gif&ct=g" alt="LinkedIn Badge" width="100"/>
+  <img src="https://media0.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif?cid=ecf05e47l74t2ksiqwc4iqfk2uxrkl1jhjp27hfhg9smlz9i&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
 
 </div>
