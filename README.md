@@ -27,15 +27,15 @@
 
 I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain with ability to learn any new language or framework in a short time.
 
--⌨ 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐲 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
+ - ⌨ 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐲 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
 
--👍 Experience with relational databases
+ - 👍 Experience with relational databases
 
--🔎 Version control system.
+ - 🔎 Version control system.
 
--🛒 Web layout and experience with CMS
+ - 🛒 Web layout and experience with CMS
 
--📈 𝐒𝐄𝐎 friendly
+ - 📈 𝐒𝐄𝐎 friendly
 
 
 ### :hammer_and_wrench: Languages and Tools :
