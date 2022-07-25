@@ -32,7 +32,7 @@ I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞�
 
    - 🔎 Version control system.
 
-   - 🛒 Web layout and experience with CMS
+   - 🛒 Web layout and experience with CMS 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬
 
    - 📈 𝐒𝐄𝐎 friendly
 
@@ -77,6 +77,7 @@ I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞�
   <img src="https://media0.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47ry5b11h3afii8fvo57c55annc9paqtfrqu29ddy5&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
   <img src="https://media0.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif?cid=ecf05e47l74t2ksiqwc4iqfk2uxrkl1jhjp27hfhg9smlz9i&rid=giphy.gif&ct=s" alt="LinkedIn Badge" width="100"/>
  <img src="https://media4.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=790b7611b3267229a64c623881287fa5a348272353e6b8aa&rid=giphy.gif&ct=g" alt="LinkedIn Badge" width="100"/>
+  <img src="https://media0.giphy.com/media/fxKWgoOG9hzPPkE1oc/giphy.gif?cid=ecf05e474fcsd4i22ajfa03l5tfsrhddbnjc7s31tfc9chrz&rid=giphy.gif&ct=g" alt="LinkedIn Badge" width="100"/>
   </div>
 
 ## :fire: My Stats :
