@@ -1,6 +1,8 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 # Hello, my name is Mario Uwongse Fernández
 ##  Full-stack web & software Developer
-
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="mario-uwongse" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/mario-uwongse?trk=profile-badge">Mario Uwongse Fernández</a></div>
+              
 [![Linkedin Badge](https://img.shields.io/badge/-Mario_Uwongse-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mario-uwongse)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYubFxk5-LcbROFDe0c18fA?style=social)](https://youtube.com/mariouwongseapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/uwongse?style=social)](https://twitch.com/uwongse)
@@ -90,3 +92,5 @@ I am a 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞�
 ## :mailbox: Contact & support:
 
 [![Email](https://img.shields.io/badge/mariouwfe@hotmail.com-my_personal_email_(fast_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mariouwfe@hotmail.com)
+
+
